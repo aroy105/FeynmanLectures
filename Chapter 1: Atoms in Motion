@@ -1,10 +1,11 @@
 1-1 Introduction
+--------------------------------
 "The principle of science, the definition, almost, is the following: The test of all knowledge is experiment. Experiment is the sole judge of scientific 'truth'."
 
 "Experiment, itself, helps to produce these laws, in the sense that it gives us hints. But also needed is imagination to create from these hints the great generalizations—to guess at the wonderful, simple, but very strange patterns beneath them all, and then to experiment to check again whether we have made the right guess."
 
 1-2 Matter is Made of Atoms
-
+--------------------------------
 Feynman calls the following Atomic Hypothesis the statement that contains the most amount of information in the fewest number of words.
 Atomic Hypothesis - all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another.
 
@@ -16,7 +17,7 @@ The water keeps its volume due to the mutual attraction between the atoms and th
 
 If we imagine these molecules as a bunch of very fast moving tennis balls in a large warehouse. At the speed these tennis balls are moving, they would at least dent and push at the walls of the warehouse. In real life, we only feel the average of these forces, and in most cases, it is imperceptible to us. 
 
-To confine a gas, like steam, we need to apply pressure, so imagine we store the steam in a cylinder with a piston inside it. Since so many water particles are bombarding the top of the container, the piston needs to apply some force to stay in place and not get blown off the container. This force is called the pressure, and to be a little more technically, the force is actually the pressure times the area. This force is naturally proportionally to the area, since if we increase the area of the piston's surface while keeping the number of molecules per cubic centimeter constant, the number of collisions with the piston would increase. 
+To confine a gas, like steam, we need to apply pressure, so imagine we store the steam in a cylinder with a piston inside it. Since so many water particles are bombarding the top of the container, the piston needs to apply some force to stay in place and not get blown off the container. This force is called the pressure, and to be a little more technical, the force is actually the pressure times the area. This force is naturally proportionally to the area, since if we increase the area of the piston's surface while keeping the number of molecules per cubic centimeter constant, the number of collisions with the piston would increase. 
 
 Doubling the number of molecules in the cylinder approximately doubles the number of collisions, so at a fairly low density, denisty and pressure are proportional. In real life, there's a slight decrease in pressure due to the attraction between atoms, and a slight increase in pressure since there's a finite volume. 
 
@@ -30,3 +31,29 @@ Most simple substances, with the exception of water and some metals, expand upon
 At absolute zero, the vibration decreases. There is a minimum amount of vibration that atoms can have, but this vibration is not zero. This minimum vibration is low enough that it won't melt substances, with the exception of Helium. We can solidify Helium by keeping it at absolute zero AND increasing the pressure to make it so great that the atoms squash together. 
 
 1-3 Atomic Processes
+--------------------------------
+If we look at the sufrace of water, we will see water vapor, or water molecules that while jiggling each other, escaped with enough speed to float up in the air. This is why water will evaporate when in an open container. If you were to close the container and examine the air directly above the surface, you would still see water vapor. From time to time, the water vapor in the air strikes the surface, and rejoins the liquid. To us, the glass of water seems unchanging, but in reality, countlesss water molecules are jumping out of and smashing back into the surface of the water. 
+
+If we opened this lid, blew the moist air away, replaced it with drier air, and then closed the lid, the water would slowly evaporate into the drier air, since the same amount of water is leaving the liquid, while less water is leaving the air to join the liquid. 
+
+Another interesting question is which liquids leave? Since the molecules that have extra energy are the ones that break through the surface, conversely, the ones that stay have less than average energy now. Thus, energy and heat is leaving the system from the liquid over time, but is reintroduced as water vapor strikes the surface again. Therefore, water won't change temperature, but if we were to, say, blow on hot soup to displace the moist vapor above it, the soup will cool. 
+
+This is a broad simplification. Oxygen and Nitrogen molecules can also crash into the liquid and get dissolved in water. If air is suddenly taken, air will leave more rapidly than they come in, forming bubbles. 
+
+What if we were to dissolve salt in water? The salt crystal is made of ions (atoms with extra or missing electrons), and when exposed to the negative oxygen and positive hydrogen, some of the ions jiggle out of the structure. At equilibrium, the amount of salt dissolving and recrystalizing in the water is equal. However, if there is less salt, the rate of dissolving will increase, and if there is too much salt, the rate of crystalization will increase. Increasing the temperature will increase both the dissolution (rate at which atoms/molecules break away from the liquid) and the precipitation (rate at which atoms/molecules attach back to the solid). I had to make a separate note for myself, with increased speed, more collisions may happen, and if these collisions are successful where salt ions join again, they will precipitate. 
+
+1-4 Chemical reactions 
+--------------------------------
+Thus far, the atoms and ions have not changed partners, but there are circumstances where this happens. This is called a chemical reaction, and what was happening before were physical reactions. 
+Certain chemical reactions may cause the atoms and ions to snap together and a large amount of motion (kinetic energy) is generated. Heat is normally in the form of the molecular motion of hot gar, but sometimes, it can be so enormous that it generates light and flames. 
+
+The job of chemists is to analyze molecules and tell us the exact arrangement of the atoms in space. Finding correct arrangements requires experimentation. 
+How do we know there are atoms? We have to first hypothesize that atoms exist, and then one after another, results line up with the hypothesis. For the case of atoms, we can't even see them with an electron microscope. Imagine if we were to place a huge ball in a crowded mall. The mall will move as the people around it strike the ball as they shuffle around. We see the same thing happen with molecules as they are hit with atoms. This is called Brownian Motion. 
+
+There's further evidence when we look at the structure of crystals. The structures deduced by x-ray analysis match with the actual forms we see in nature, and the angles between various faces agree, based on the assuption that a crystal is made of many layers of atoms. 
+
+
+
+
+
+
